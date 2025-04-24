@@ -15,7 +15,7 @@ Export in PDF format with clean, modern templates
 💬 Chat with CareerBot
 Not sure what step to take next? Chat directly with our built-in bot assistant!
 
-Ask about job-hunting tips, interview questions, or resume advice
+Ask about job-hunting tips, interview questions, or resume advice 
 
 Personalized guidance based on your experience level
 
