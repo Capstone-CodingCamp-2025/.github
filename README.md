@@ -9,7 +9,7 @@ Create a professional, ATS-friendly (Applicant Tracking System) resume in minute
 Optimized layouts for recruiters and bots alike
 
 Tailored keyword suggestions based on job roles
-
+ 
 Export in PDF format with clean, modern templates
 
 💬 Chat with CareerBot
