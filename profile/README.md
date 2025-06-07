@@ -42,9 +42,9 @@ Whether you're crafting the perfect resume or navigating the emotional toll of j
 
 ## 🚀 Deployment Status
 
-- Currently running in local development environment  
-- Production deployment scheduled for this week  
-- Stay tuned for live demo!
+- 🟢 **100% Live Website:** [https://capstone-job-git-main-ahmadparkhan5555gmailcoms-projects.vercel.app/](https://capstone-job-git-main-ahmadparkhan5555gmailcoms-projects.vercel.app/)
+  
+  
 
 ---
 
