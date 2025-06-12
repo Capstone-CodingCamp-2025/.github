@@ -42,7 +42,7 @@ Whether you're crafting the perfect resume or navigating the emotional toll of j
 
 ## 🚀 Deployment Status
 
-- 🟢 **100% Live Website:** [https://capstone-job-git-main-ahmadparkhan5555gmailcoms-projects.vercel.app/](https://capstone-job-git-main-ahmadparkhan5555gmailcoms-projects.vercel.app/)
+- 🟢 **100% Live Website:** [https://capstone-job.vercel.app/)
   
   
 
